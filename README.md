@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SMButler93
-- 👀 I’m interested in becoming the best developer I can be
-- 🌱 I’m currently learning variety of Python frameworks and libraries
-- 💞️ I’m looking to collaborate on any projects that could benefit my growth
-- 📫 You can reach me @ scottmbutler93@gmail.com
+Hi, I'm Scott.
+I'm a 29 year old developer from the South East of England.
+I love Python. 
 
 <!---
 SMButler93/SMButler93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
