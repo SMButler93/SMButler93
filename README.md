@@ -5,7 +5,7 @@ I specialise in API development and cloud computing.
 
 My skillset:
 • Python
-• Flask
+• Flask - Flask-Alchemy - Marshmallow
 • AWS
 • SQL
 • Docker
