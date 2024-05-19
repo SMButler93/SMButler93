@@ -1,16 +1,13 @@
 Hi, I'm Scott.
-I'm a 29 year old Pythonista from the South East of England.
-I have a passion for problem solving and developing solutions with Python.
-I specialise in API development and cloud computing.
+I'm a Software dev from the Southeast of England. 
 
-My skillset:
-• Python
-• Flask - Flask-Alchemy - Marshmallow
-• AWS
-• SQL
-• Docker
-• HTML
-• CSS
+Technologies:
+* Python
+* C#
+* .NET
+* SQL
+* Javascript
+* Angular
 
 <!---
 SMButler93/SMButler93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
