@@ -6,8 +6,6 @@ Technologies:
 * C#
 * .NET
 * SQL
-* Javascript
-* TypeScript
 * Angular
 
 <!---
